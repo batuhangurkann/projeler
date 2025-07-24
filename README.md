@@ -1,5 +1,5 @@
 # projeler
-🎯 About My Repository
+    🎯 About My Repository 
 This repository contains various embedded systems projects developed using Code Composer Studio (CCS). Projects are implemented primarily in C++ with occasional use of Assembly language, demonstrating low-level hardware interaction and real-time embedded design capabilities.
 
 Each project focuses on a different aspect of embedded systems development, including:
@@ -10,7 +10,7 @@ Each project focuses on a different aspect of embedded systems development, incl
 •	✅ Bare-metal programming with ARM Assembly
 •	✅ Efficient memory and register-level manipulation
 
-🚀 Highlights
+    🚀 Highlights
 •	Hybrid use of Assembly and C++ in embedded workflows
 •	Demonstrates understanding of bare-metal programming
 •	Focused on performance-critical microcontroller projects
