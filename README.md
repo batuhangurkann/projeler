@@ -3,6 +3,7 @@
 This repository contains various embedded systems projects developed using Code Composer Studio (CCS). Projects are implemented primarily in C++ with occasional use of Assembly language, demonstrating low-level hardware interaction and real-time embedded design capabilities.
 
 Each project focuses on a different aspect of embedded systems development, including:
+
 •	✅ GPIO control and interrupt handling
 
 •	✅ Timer configurations and delay generation
