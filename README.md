@@ -1,6 +1,6 @@
 # projeler
     🎯 About My Repository 
-This repository contains various embedded systems projects developed using Code Composer Studio (CCS). Projects are implemented primarily in C++ with occasional use of Assembly language, demonstrating low-level hardware interaction and real-time embedded design capabilities.
+This repository contains various embedded systems projects developed using Code Composer Studio (CCS). Projects are implemented using both C++ and Assembly languages (varies on the project), demonstrating low-level hardware interaction and real-time embedded design capabilities.
 
 Each project focuses on a different aspect of embedded systems development, including:
 
